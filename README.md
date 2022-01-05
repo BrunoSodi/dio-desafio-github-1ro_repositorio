@@ -1,2 +1,2 @@
 # dio-desafio-github-1ro_repositorio
-Desafio de projeto sobre Git/Github
+Repositório para o desafio de projeto MRV
